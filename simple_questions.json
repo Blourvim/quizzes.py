@@ -1,0 +1,1556 @@
+{
+  "questions": [
+    {
+      "text": "Pick a vacation spot:",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Mountains"
+        },
+        {
+          "id": 2,
+          "text": "Beach"
+        },
+        {
+          "id": 3,
+          "text": "City"
+        }
+      ]
+    },
+    {
+      "text": "Choose a hobby:",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Reading"
+        },
+        {
+          "id": 2,
+          "text": "Surfing"
+        },
+        {
+          "id": 3,
+          "text": "Cooking"
+        }
+      ]
+    },
+    {
+      "text": "What's your favorite time of day?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Morning"
+        },
+        {
+          "id": 2,
+          "text": "Afternoon"
+        },
+        {
+          "id": 3,
+          "text": "Evening"
+        }
+      ]
+    },
+    {
+      "text": "Pick a color:",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Blue"
+        },
+        {
+          "id": 2,
+          "text": "Green"
+        },
+        {
+          "id": 3,
+          "text": "Red"
+        }
+      ]
+    },
+    {
+      "text": "What type of vacation do you prefer?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Beach"
+        },
+        {
+          "id": 2,
+          "text": "Mountains"
+        },
+        {
+          "id": 3,
+          "text": "City"
+        },
+        {
+          "id": 4,
+          "text": "Countryside"
+        },
+        {
+          "id": 5,
+          "text": "Adventure"
+        }
+      ]
+    },
+    {
+      "text": "What's your favorite hobby?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Reading"
+        },
+        {
+          "id": 2,
+          "text": "Hiking"
+        },
+        {
+          "id": 3,
+          "text": "Traveling"
+        },
+        {
+          "id": 4,
+          "text": "Cooking"
+        },
+        {
+          "id": 5,
+          "text": "Sports"
+        }
+      ]
+    },
+    {
+      "text": "How do you prefer to spend your weekends?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Relaxing at home"
+        },
+        {
+          "id": 2,
+          "text": "Going out with friends"
+        },
+        {
+          "id": 3,
+          "text": "Exploring new places"
+        },
+        {
+          "id": 4,
+          "text": "Doing outdoor activities"
+        },
+        {
+          "id": 5,
+          "text": "Attending events"
+        }
+      ]
+    },
+    {
+      "text": "What kind of music do you enjoy the most?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Pop"
+        },
+        {
+          "id": 2,
+          "text": "Rock"
+        },
+        {
+          "id": 3,
+          "text": "Jazz"
+        },
+        {
+          "id": 4,
+          "text": "Classical"
+        },
+        {
+          "id": 5,
+          "text": "Hip-Hop"
+        }
+      ]
+    },
+    {
+      "text": "What's your ideal pet?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Dog"
+        },
+        {
+          "id": 2,
+          "text": "Cat"
+        },
+        {
+          "id": 3,
+          "text": "Bird"
+        },
+        {
+          "id": 4,
+          "text": "Reptile"
+        },
+        {
+          "id": 5,
+          "text": "Fish"
+        }
+      ]
+    },
+    {
+      "text": "Which season do you like the most?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Winter"
+        },
+        {
+          "id": 2,
+          "text": "Spring"
+        },
+        {
+          "id": 3,
+          "text": "Summer"
+        },
+        {
+          "id": 4,
+          "text": "Autumn"
+        },
+        {
+          "id": 5,
+          "text": "I love them all!"
+        }
+      ]
+    },
+    {
+      "text": "What type of movie do you enjoy?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Action"
+        },
+        {
+          "id": 2,
+          "text": "Comedy"
+        },
+        {
+          "id": 3,
+          "text": "Drama"
+        },
+        {
+          "id": 4,
+          "text": "Horror"
+        },
+        {
+          "id": 5,
+          "text": "Sci-Fi"
+        }
+      ]
+    },
+    {
+      "text": "If you could have any superpower, what would it be?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Invisibility"
+        },
+        {
+          "id": 2,
+          "text": "Flight"
+        },
+        {
+          "id": 3,
+          "text": "Super strength"
+        },
+        {
+          "id": 4,
+          "text": "Time travel"
+        },
+        {
+          "id": 5,
+          "text": "Telepathy"
+        }
+      ]
+    },
+    {
+      "text": "What is your favorite type of cuisine?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Italian"
+        },
+        {
+          "id": 2,
+          "text": "Chinese"
+        },
+        {
+          "id": 3,
+          "text": "Mexican"
+        },
+        {
+          "id": 4,
+          "text": "Indian"
+        },
+        {
+          "id": 5,
+          "text": "American"
+        }
+      ]
+    },
+    {
+      "text": "What's your dream job?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Artist"
+        },
+        {
+          "id": 2,
+          "text": "Scientist"
+        },
+        {
+          "id": 3,
+          "text": "Teacher"
+        },
+        {
+          "id": 4,
+          "text": "Entrepreneur"
+        },
+        {
+          "id": 5,
+          "text": "Athlete"
+        }
+      ]
+    },
+    {
+      "text": "What's your favorite way to unwind?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Meditation"
+        },
+        {
+          "id": 2,
+          "text": "Watching TV"
+        },
+        {
+          "id": 3,
+          "text": "Reading a book"
+        },
+        {
+          "id": 4,
+          "text": "Going for a walk"
+        },
+        {
+          "id": 5,
+          "text": "Spending time with friends"
+        }
+      ]
+    },
+    {
+      "text": "What is your favorite dessert?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Chocolate Cake"
+        },
+        {
+          "id": 2,
+          "text": "Ice Cream"
+        },
+        {
+          "id": 3,
+          "text": "Fruit Salad"
+        },
+        {
+          "id": 4,
+          "text": "Cheesecake"
+        },
+        {
+          "id": 5,
+          "text": "Cookies"
+        }
+      ]
+    },
+    {
+      "text": "What is your preferred mode of transportation?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Car"
+        },
+        {
+          "id": 2,
+          "text": "Bicycle"
+        },
+        {
+          "id": 3,
+          "text": "Public Transport"
+        },
+        {
+          "id": 4,
+          "text": "Walking"
+        },
+        {
+          "id": 5,
+          "text": "Motorcycle"
+        }
+      ]
+    },
+    {
+      "text": "Which animal do you feel most connected to?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Dog"
+        },
+        {
+          "id": 2,
+          "text": "Cat"
+        },
+        {
+          "id": 3,
+          "text": "Wolf"
+        },
+        {
+          "id": 4,
+          "text": "Eagle"
+        },
+        {
+          "id": 5,
+          "text": "Dolphin"
+        }
+      ]
+    },
+    {
+      "text": "What is your favorite type of book?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Fiction"
+        },
+        {
+          "id": 2,
+          "text": "Non-Fiction"
+        },
+        {
+          "id": 3,
+          "text": "Mystery"
+        },
+        {
+          "id": 4,
+          "text": "Biography"
+        },
+        {
+          "id": 5,
+          "text": "Fantasy"
+        }
+      ]
+    },
+    {
+      "text": "What kind of weather do you prefer?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Sunny"
+        },
+        {
+          "id": 2,
+          "text": "Rainy"
+        },
+        {
+          "id": 3,
+          "text": "Snowy"
+        },
+        {
+          "id": 4,
+          "text": "Cloudy"
+        },
+        {
+          "id": 5,
+          "text": "Windy"
+        }
+      ]
+    },
+    {
+      "text": "If you could travel anywhere in the world, where would you go?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Japan"
+        },
+        {
+          "id": 2,
+          "text": "Brazil"
+        },
+        {
+          "id": 3,
+          "text": "Australia"
+        },
+        {
+          "id": 4,
+          "text": "Italy"
+        },
+        {
+          "id": 5,
+          "text": "Canada"
+        }
+      ]
+    },
+    {
+      "text": "What type of art do you appreciate most?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Painting"
+        },
+        {
+          "id": 2,
+          "text": "Sculpture"
+        },
+        {
+          "id": 3,
+          "text": "Photography"
+        },
+        {
+          "id": 4,
+          "text": "Music"
+        },
+        {
+          "id": 5,
+          "text": "Dance"
+        }
+      ]
+    },
+    {
+      "text": "How do you feel about technology?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "I love it!"
+        },
+        {
+          "id": 2,
+          "text": "It’s helpful."
+        },
+        {
+          "id": 3,
+          "text": "I’m indifferent."
+        },
+        {
+          "id": 4,
+          "text": "I prefer less technology."
+        },
+        {
+          "id": 5,
+          "text": "I dislike it."
+        }
+      ]
+    },
+    {
+      "text": "What motivates you to work hard?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Personal goals"
+        },
+        {
+          "id": 2,
+          "text": "Financial security"
+        },
+        {
+          "id": 3,
+          "text": "Passion for my work"
+        },
+        {
+          "id": 4,
+          "text": "Recognition"
+        },
+        {
+          "id": 5,
+          "text": "Helping others"
+        }
+      ]
+    },
+    {
+      "text": "What is your ideal Friday night?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Staying in with a movie"
+        },
+        {
+          "id": 2,
+          "text": "Going out with friends"
+        },
+        {
+          "id": 3,
+          "text": "Trying a new restaurant"
+        },
+        {
+          "id": 4,
+          "text": "Attending a concert"
+        },
+        {
+          "id": 5,
+          "text": "Reading a book at home"
+        }
+      ]
+    },
+    {
+      "text": "What do you value most in a friendship?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Loyalty"
+        },
+        {
+          "id": 2,
+          "text": "Honesty"
+        },
+        {
+          "id": 3,
+          "text": "Fun"
+        },
+        {
+          "id": 4,
+          "text": "Support"
+        },
+        {
+          "id": 5,
+          "text": "Understanding"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite type of exercise?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Yoga"
+        },
+        {
+          "id": 2,
+          "text": "Running"
+        },
+        {
+          "id": 3,
+          "text": "Weightlifting"
+        },
+        {
+          "id": 4,
+          "text": "Swimming"
+        },
+        {
+          "id": 5,
+          "text": "Cycling"
+        }
+      ]
+    },
+    {
+      "text": "How do you prefer to communicate?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "In-person"
+        },
+        {
+          "id": 2,
+          "text": "Phone calls"
+        },
+        {
+          "id": 3,
+          "text": "Text messages"
+        },
+        {
+          "id": 4,
+          "text": "Emails"
+        },
+        {
+          "id": 5,
+          "text": "Social media"
+        }
+      ]
+    },
+    {
+      "text": "What inspires you the most?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Nature"
+        },
+        {
+          "id": 2,
+          "text": "People"
+        },
+        {
+          "id": 3,
+          "text": "Art"
+        },
+        {
+          "id": 4,
+          "text": "Books"
+        },
+        {
+          "id": 5,
+          "text": "Travel"
+        }
+      ]
+    },
+    {
+      "text": "How do you feel about social media?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "I love it!"
+        },
+        {
+          "id": 2,
+          "text": "It's okay."
+        },
+        {
+          "id": 3,
+          "text": "I'm indifferent."
+        },
+        {
+          "id": 4,
+          "text": "I prefer to stay off it."
+        },
+        {
+          "id": 5,
+          "text": "I dislike it."
+        }
+      ]
+    },
+    {
+      "text": "What type of game do you enjoy playing?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Board games"
+        },
+        {
+          "id": 2,
+          "text": "Video games"
+        },
+        {
+          "id": 3,
+          "text": "Card games"
+        },
+        {
+          "id": 4,
+          "text": "Outdoor games"
+        },
+        {
+          "id": 5,
+          "text": "Puzzle games"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite way to celebrate a special occasion?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Throwing a party"
+        },
+        {
+          "id": 2,
+          "text": "Going out for dinner"
+        },
+        {
+          "id": 3,
+          "text": "Spending time with family"
+        },
+        {
+          "id": 4,
+          "text": "Traveling somewhere special"
+        },
+        {
+          "id": 5,
+          "text": "Having a quiet night in"
+        }
+      ]
+    },
+    {
+      "text": "What do you enjoy doing on a rainy day?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Reading a book"
+        },
+        {
+          "id": 2,
+          "text": "Watching movies"
+        },
+        {
+          "id": 3,
+          "text": "Cooking or baking"
+        },
+        {
+          "id": 4,
+          "text": "Doing a puzzle"
+        },
+        {
+          "id": 5,
+          "text": "Catching up on work"
+        }
+      ]
+    },
+    {
+      "text": "If you could learn any new skill, what would it be?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Cooking"
+        },
+        {
+          "id": 2,
+          "text": "A new language"
+        },
+        {
+          "id": 3,
+          "text": "Playing an instrument"
+        },
+        {
+          "id": 4,
+          "text": "Photography"
+        },
+        {
+          "id": 5,
+          "text": "Coding"
+        }
+      ]
+    },
+    {
+      "text": "How do you prefer your coffee?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Black"
+        },
+        {
+          "id": 2,
+          "text": "With sugar"
+        },
+        {
+          "id": 3,
+          "text": "With cream"
+        },
+        {
+          "id": 4,
+          "text": "I don't drink coffee."
+        },
+        {
+          "id": 5,
+          "text": "I prefer tea."
+        }
+      ]
+    },
+    {
+      "text": "What motivates you to wake up in the morning?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "My job"
+        },
+        {
+          "id": 2,
+          "text": "My family"
+        },
+        {
+          "id": 3,
+          "text": "My hobbies"
+        },
+        {
+          "id": 4,
+          "text": "My goals"
+        },
+        {
+          "id": 5,
+          "text": "I love mornings!"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite way to express creativity?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Painting"
+        },
+        {
+          "id": 2,
+          "text": "Writing"
+        },
+        {
+          "id": 3,
+          "text": "Music"
+        },
+        {
+          "id": 4,
+          "text": "Crafting"
+        },
+        {
+          "id": 5,
+          "text": "Cooking"
+        }
+      ]
+    },
+    {
+      "text": "What do you think is the key to happiness?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Relationships"
+        },
+        {
+          "id": 2,
+          "text": "Money"
+        },
+        {
+          "id": 3,
+          "text": "Health"
+        },
+        {
+          "id": 4,
+          "text": "Personal growth"
+        },
+        {
+          "id": 5,
+          "text": "Having fun"
+        }
+      ]
+    },
+    {
+      "text": "What is your favorite outdoor activity?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Camping"
+        },
+        {
+          "id": 2,
+          "text": "Hiking"
+        },
+        {
+          "id": 3,
+          "text": "Fishing"
+        },
+        {
+          "id": 4,
+          "text": "Picnicking"
+        },
+        {
+          "id": 5,
+          "text": "Gardening"
+        }
+      ]
+    },
+    {
+      "text": "How do you prefer to celebrate your birthday?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Throwing a big party"
+        },
+        {
+          "id": 2,
+          "text": "Having a small gathering"
+        },
+        {
+          "id": 3,
+          "text": "Going out for a special meal"
+        },
+        {
+          "id": 4,
+          "text": "Traveling somewhere special"
+        },
+        {
+          "id": 5,
+          "text": "Spending it quietly"
+        }
+      ]
+    },
+    {
+      "text": "What is your favorite type of snack?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Chips"
+        },
+        {
+          "id": 2,
+          "text": "Fruit"
+        },
+        {
+          "id": 3,
+          "text": "Nuts"
+        },
+        {
+          "id": 4,
+          "text": "Cookies"
+        },
+        {
+          "id": 5,
+          "text": "Candy"
+        }
+      ]
+    },
+    {
+      "text": "What genre of books do you avoid?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Horror"
+        },
+        {
+          "id": 2,
+          "text": "Romance"
+        },
+        {
+          "id": 4,
+          "text": "Non-fiction"
+        },
+        {
+          "id": 5,
+          "text": "Self-help"
+        }
+      ]
+    },
+    {
+      "text": "If you could have dinner with any historical figure, who would it be?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Albert Einstein"
+        },
+        {
+          "id": 2,
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "id": 3,
+          "text": "Marie Curie"
+        },
+        {
+          "id": 4,
+          "text": "Leonardo da Vinci"
+        },
+        {
+          "id": 5,
+          "text": "Nelson Mandela"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite childhood memory?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Playing with friends"
+        },
+        {
+          "id": 2,
+          "text": "Family vacations"
+        },
+        {
+          "id": 4,
+          "text": "Learning to ride a bike"
+        },
+        {
+          "id": 5,
+          "text": "Going to the beach"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite ice cream flavor?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Chocolate"
+        },
+        {
+          "id": 2,
+          "text": "Vanilla"
+        },
+        {
+          "id": 3,
+          "text": "Strawberry"
+        },
+        {
+          "id": 4,
+          "text": "Mint chocolate chip"
+        },
+        {
+          "id": 5,
+          "text": "Cookies and cream"
+        }
+      ]
+    },
+    {
+      "text": "How do you feel about public speaking?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "I love it!"
+        },
+        {
+          "id": 2,
+          "text": "I'm okay with it."
+        },
+        {
+          "id": 4,
+          "text": "I get nervous."
+        },
+        {
+          "id": 5,
+          "text": "I avoid it at all costs."
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite holiday tradition?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Family gatherings"
+        },
+        {
+          "id": 2,
+          "text": "Gift giving"
+        },
+        {
+          "id": 4,
+          "text": "Decorating the house"
+        },
+        {
+          "id": 5,
+          "text": "Baking holiday treats"
+        }
+      ]
+    },
+    {
+      "text": "If you could only listen to one music genre for the rest of your life, what would it be?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Rock"
+        },
+        {
+          "id": 2,
+          "text": "Pop"
+        },
+        {
+          "id": 4,
+          "text": "Classical"
+        },
+        {
+          "id": 5,
+          "text": "Hip-hop"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite way to relax after a long day?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Taking a bath"
+        },
+        {
+          "id": 2,
+          "text": "Watching TV"
+        },
+        {
+          "id": 4,
+          "text": "Reading a book"
+        },
+        {
+          "id": 5,
+          "text": "Meditating"
+        }
+      ]
+    },
+    {
+      "text": "What kind of movies do you dislike?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Horror"
+        },
+        {
+          "id": 2,
+          "text": "Romantic comedies"
+        },
+        {
+          "id": 3,
+          "text": "Documentaries"
+        },
+        {
+          "id": 4,
+          "text": "Thrillers"
+        },
+        {
+          "id": 5,
+          "text": "Action movies"
+        }
+      ]
+    },
+    {
+      "text": "What is your go-to comfort food?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Pizza"
+        },
+        {
+          "id": 2,
+          "text": "Mac and cheese"
+        },
+        {
+          "id": 4,
+          "text": "Chocolate"
+        },
+        {
+          "id": 5,
+          "text": "Ice cream"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite thing to do on a lazy Sunday?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Binge-watching TV shows"
+        },
+        {
+          "id": 2,
+          "text": "Taking a long nap"
+        },
+        {
+          "id": 4,
+          "text": "Reading"
+        },
+        {
+          "id": 5,
+          "text": "Cooking a big meal"
+        }
+      ]
+    },
+    {
+      "text": "What’s the best piece of advice you’ve ever received?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Follow your dreams"
+        },
+        {
+          "id": 2,
+          "text": "Treat others how you want to be treated"
+        },
+        {
+          "id": 4,
+          "text": "Stay true to yourself"
+        },
+        {
+          "id": 5,
+          "text": "Don’t give up"
+        }
+      ]
+    },
+    {
+      "text": "What are you most proud of in your life?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "My career"
+        },
+        {
+          "id": 2,
+          "text": "My family"
+        },
+        {
+          "id": 4,
+          "text": "My education"
+        },
+        {
+          "id": 5,
+          "text": "My personal growth"
+        }
+      ]
+    },
+    {
+      "text": "What is your favorite way to show kindness to others?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Helping someone in need"
+        },
+        {
+          "id": 2,
+          "text": "Giving compliments"
+        },
+        {
+          "id": 4,
+          "text": "Volunteering"
+        },
+        {
+          "id": 5,
+          "text": "Listening to others"
+        }
+      ]
+    },
+    {
+      "text": "What’s the most adventurous thing you’ve ever done?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Skydiving"
+        },
+        {
+          "id": 2,
+          "text": "Traveling solo"
+        },
+        {
+          "id": 4,
+          "text": "Bungee jumping"
+        },
+        {
+          "id": 5,
+          "text": "Going on a road trip"
+        }
+      ]
+    },
+    {
+      "text": "How do you define success?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Achieving personal goals"
+        },
+        {
+          "id": 2,
+          "text": "Making a lot of money"
+        },
+        {
+          "id": 4,
+          "text": "Having a happy family"
+        },
+        {
+          "id": 5,
+          "text": "Being fulfilled in life"
+        }
+      ]
+    },
+    {
+      "text": "If you could have one superpower, what would it be?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Invisibility"
+        },
+        {
+          "id": 2,
+          "text": "Flight"
+        },
+        {
+          "id": 4,
+          "text": "Telepathy"
+        },
+        {
+          "id": 5,
+          "text": "Super strength"
+        }
+      ]
+    },
+    {
+      "text": "What do you think is the most important quality in a leader?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Empathy"
+        },
+        {
+          "id": 2,
+          "text": "Decisiveness"
+        },
+        {
+          "id": 4,
+          "text": "Integrity"
+        },
+        {
+          "id": 5,
+          "text": "Vision"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite season and why?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Spring"
+        },
+        {
+          "id": 2,
+          "text": "Summer"
+        },
+        {
+          "id": 4,
+          "text": "Fall"
+        },
+        {
+          "id": 5,
+          "text": "Winter"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite way to spend a day off?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Relaxing at home"
+        },
+        {
+          "id": 2,
+          "text": "Exploring new places"
+        },
+        {
+          "id": 4,
+          "text": "Spending time with friends"
+        },
+        {
+          "id": 5,
+          "text": "Catching up on hobbies"
+        }
+      ]
+    },
+    {
+      "text": "What’s your biggest goal for the next year?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Career advancement"
+        },
+        {
+          "id": 2,
+          "text": "Traveling more"
+        },
+        {
+          "id": 4,
+          "text": "Improving health"
+        },
+        {
+          "id": 5,
+          "text": "Learning a new skill"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite way to keep fit?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Going to the gym"
+        },
+        {
+          "id": 2,
+          "text": "Playing sports"
+        },
+        {
+          "id": 4,
+          "text": "Dancing"
+        },
+        {
+          "id": 5,
+          "text": "Doing yoga"
+        }
+      ]
+    },
+    {
+      "text": "What’s the best gift you’ve ever received?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "A surprise trip"
+        },
+        {
+          "id": 2,
+          "text": "A meaningful book"
+        },
+        {
+          "id": 4,
+          "text": "A handmade gift"
+        },
+        {
+          "id": 5,
+          "text": "A piece of jewelry"
+        }
+      ]
+    },
+    {
+      "text": "If you could visit any place in the world, where would it be?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Japan"
+        },
+        {
+          "id": 2,
+          "text": "Italy"
+        },
+        {
+          "id": 4,
+          "text": "Australia"
+        },
+        {
+          "id": 5,
+          "text": "Iceland"
+        }
+      ]
+    },
+    {
+      "text": "What’s your favorite book genre?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Fantasy"
+        },
+        {
+          "id": 2,
+          "text": "Mystery"
+        },
+        {
+          "id": 4,
+          "text": "Science fiction"
+        },
+        {
+          "id": 5,
+          "text": "Historical fiction"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "description": "You're a laid-back bean, enjoying the simple pleasures in life!",
+      "threshold": 5
+    },
+    {
+      "description": "You're an adventurous bean, always seeking new experiences!",
+      "threshold": 10
+    },
+    {
+      "description": "You're a creative bean, with a flair for the arts!",
+      "threshold": 15
+    },
+    {
+      "description": "You're a sociable bean, loving to connect with others!",
+      "threshold": 20
+    },
+    {
+      "description": "You're a mysterious bean, full of surprises!",
+      "threshold": 25
+    }
+  ]
+}
